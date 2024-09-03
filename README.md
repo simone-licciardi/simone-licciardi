@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Simone Licciardi
+# 👋 Hello!!
 
 Welcome to my GitHub page! I'm currently pursuing a Bachelor's degree in **Mathematical Engineering** at **Politecnico di Milano**. Passionate about math, data science, and all things AI, I enjoy exploring the fascinating world of numbers, algorithms, and models.
 
