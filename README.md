@@ -4,7 +4,7 @@ Welcome to my GitHub page! I'm currently pursuing a Bachelor's degree in **Mathe
 
 ### 📫 Let's Connect!
 
-- 📧 Email: [simone.licciardi@outlook.com](mailto:simone.licciardi@outlook.com)
+- 📧 Email: [contact@slicciardi.it](mailto:contact@slicciardi.it)
 - 💼 LinkedIn: [Simone Licciardi](https://www.linkedin.com/in/simone-licciardi)
 
 Feel free to check out my repositories, and if something catches your eye, let's collaborate! I'm always open to interesting projects and ideas. 🚀
